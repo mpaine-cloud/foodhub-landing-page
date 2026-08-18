@@ -1,0 +1,8 @@
+{
+  "name": "FoodHub Landing Page",
+  "description": "Landing page for FoodHub, offering process mapping, pricing strategy, and a web app for gastronomic cost control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
