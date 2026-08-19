@@ -9,7 +9,7 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-20 items-center">
           <div className="flex-shrink-0 flex items-center">
-            <span className="text-2xl font-bold text-white tracking-tight">FoodHub <span className="text-[#ff9000] text-lg">by Rubika</span></span>
+            <span className="text-2xl font-bold text-white tracking-tight">FoodHub <span className="text-[#ff9000] text-lg">by Rubika</span> <span className="text-indigo-300 text-xs ml-2 font-normal hidden sm:inline-block">un proyecto de AMIPGo</span></span>
           </div>
           
           <div className="hidden md:flex space-x-8 items-center">

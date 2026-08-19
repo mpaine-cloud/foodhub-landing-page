@@ -17,7 +17,7 @@ export function FAQ() {
     },
     {
       question: '¿Cuánto tiempo toma la implementación del Levantamiento de Procesos?',
-      answer: 'Depende de la complejidad de tu negocio, pero generalmente un levantamiento inicial y la propuesta de arquitectura de precios toma entre 2 y 3 semanas. La entrega de la aplicación es inmediata.'
+      answer: 'Depende de la complejidad de tu negocio, pero generalmente nos demoramos desde 1 mes para realizar un levantamiento inicial y la propuesta de arquitectura de precios. La entrega de la aplicación es inmediata.'
     }
   ];
 

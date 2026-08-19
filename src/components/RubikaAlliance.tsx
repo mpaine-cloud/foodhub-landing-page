@@ -18,7 +18,7 @@ export function RubikaAlliance() {
               <span style={{ fontFamily: "'Montserrat', sans-serif" }} className="text-[#ff9000]">Rubika Networking</span>
             </h2>
             <p className="text-lg text-indigo-200 mb-8 leading-relaxed">
-              FoodHub nace de la necesidad de aplicar inteligencia de negocios real al sector gastronómico. En alianza con Rubika, integramos años de experiencia en levantamiento de procesos, consultoría financiera y estrategias de crecimiento.
+              FoodHub nace de la necesidad de aplicar inteligencia de negocios real al sector gastronómico. En alianza con Rubika, AMIPGo integra años de experiencia en levantamiento de procesos, consultoría financiera y estrategias de crecimiento.
             </p>
             <ul className="space-y-4 mb-10">
               {['Metodologías comprobadas de optimización', 'Estrategias de Behavioral Economics', 'Consultoría experta en operaciones gastronómicas'].map((item, i) => (

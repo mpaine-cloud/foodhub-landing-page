@@ -43,6 +43,7 @@ export function Pricing() {
         'Todo lo del plan Crecimiento',
         'Auditoría inicial de percepción y valor',
         'Rediseño de precios (Economía Conductual)',
+        'Estudio de Mercado',
         'Soporte técnico'
       ],
       cta: 'Contactar Ventas',
